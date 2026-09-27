@@ -1,0 +1,25 @@
+{
+  "name": "luisperez-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "homepage": "https://github.com/WndrB/luisperez-palindrome#readme",
+  "bugs": {
+    "url": "https://github.com/WndrB/luisperez-palindrome/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WndrB/luisperez-palindrome.git"
+  },
+  "license": "ISC",
+  "author": "Michael Hartl",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  }
+}
